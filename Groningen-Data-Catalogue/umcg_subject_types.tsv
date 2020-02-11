@@ -1,0 +1,5 @@
+"id"	"label"	"ontology"	"uri"	"description"
+"NOT_APPLICABLE"	"Not applicable"			"if data and or biomaterials are used and no human subjects are recruited."
+"PATIENTS"	"Patients"			"if the study is involved in recruitment of patients."
+"VOLUNTEERS"	"(Healthy) volunteers"			"if the study is involved in recruitment of healthy volunteers."
+"VOLUNTEERS_PATIENTS"	"(Healthy) volunteers and patients"			"if the study is involved in recruitment of both healthy volunteers and patients."
