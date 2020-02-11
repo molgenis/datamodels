@@ -1,0 +1,7 @@
+"name"	"package"	"extends"	"abstract"	"backend"	"tags"	"label"	"description"	"description-de"	"label-de"	"description-en"	"label-en"	"description-es"	"label-es"	"description-fr"	"label-fr"	"description-it"	"label-it"	"description-nl"	"label-nl"	"description-pt"	"label-pt"	"description-xx"	"label-xx"
+"intervention_type"	"oa_trialbank"	""	"false"	""	""	"OA Trial Bank - Intervention type"																	
+"outcome_tp"	"oa_trialbank"	""	"false"	""	""	"OA Trial Bank - Outcome timepoints"																	
+"project"	"oa_trialbank"	""	"false"	""	""	"OA Trial Bank - Projects"																	
+"studies"	"oa_trialbank"	""	"false"	""	""	"OA Trial Bank - Studies"																	
+"type"	"oa_trialbank"	""	"false"	""	""	"OA Trial Bank - Type of OA"																	
+"yesno"	"oa_trialbank"	""	"false"	""	""	"OA Trial Bank - Yes No"																	
