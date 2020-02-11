@@ -1,0 +1,6 @@
+"id"	"label"
+"binary"	"Binary"
+"categorical"	"Categorical"
+"continuous"	"Continuous"
+"int"	"Integer"
+"string"	"String"
