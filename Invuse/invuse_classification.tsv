@@ -1,0 +1,6 @@
+"id"	"label"	"probableP"
+"1"	"Not Pathogenic or of No Clinical Significance"	"<0.001"
+"2"	"Likely Not Pathogenic or of Little Clinical Significance"	"0.001–0.049"
+"3"	"Uncertain"	"0.05–0.949"
+"4"	"Likely Pathogenic"	"0.95–0.99"
+"5"	"Definitely Pathogenic"	">0.99"

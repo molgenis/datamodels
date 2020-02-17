@@ -1,0 +1,5 @@
+"name"	"package"	"extends"	"abstract"	"backend"	"tags"	"label"	"description"	"description-de"	"label-de"	"description-en"	"label-en"	"description-es"	"label-es"	"description-fr"	"label-fr"	"description-it"	"label-it"	"description-nl"	"label-nl"	"description-pt"	"label-pt"	"description-xx"	"label-xx"
+"classification"	"invuse"	""	"false"	""	""	"Classification Class"	"Classification Class"																
+"gene"	"invuse"	""	"false"	""	""	"Gene"	"Gene"																
+"publication"	"invuse"	""	"false"	""	""	"Relevant Publications"	"Relevant Publications"																
+"variant"	"invuse"	""	"false"	""	""	"Variant"	"Variant"																
